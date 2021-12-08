@@ -1,3 +1,5 @@
+# Converts pdf [taken as command line argument] to text and reads aloud
+
 import pyttsx3
 import PyPDF2
 import os
